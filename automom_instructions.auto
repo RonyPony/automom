@@ -1,0 +1,5 @@
+move(141,858,def)
+leftClick()
+write(system preferences)
+move(730,121,def)
+leftClick()
